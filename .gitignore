@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter (if any)
+.ipynb_checkpoints/
+
+# Optional: ignore input images
+# *.jpg
+# *.png
